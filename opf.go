@@ -1,1 +1,1 @@
-package com_novoo_epub3
+package gopub3
